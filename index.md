@@ -6,7 +6,7 @@ layout: default
 # Should COMP110 have a weekly review session?
 
 
-## Summary of my findings
+## Summary & Description of Analysis
 
 My recommendation is that the course should offer weekly review session. These sessions will allow for structured review and application of material, especially for students who struggle with understanding or work better in group settings. My analysis supports this change by showing that students who find the class difficult also tend to benefit more from structured support.
 
