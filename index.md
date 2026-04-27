@@ -20,3 +20,7 @@ My third analysis calculated the average effectiveness ratinf of lesson videos, 
 
 Overall, this analysis suggests that students find the structured practice problems helpful for guiding their understanding. As a result, they would likely benefit from additional problems that help further develop their knowledge and challenge the skills built in class. A further extension of this question could ask students can create their own problems rather then if they do currently. One could also add a survey question to see if students would attend a group session and if they believe it would be helpful. A tradeoff of this would it would require that students be able to attend the weekly session which could be hard with the busy schedules students have. This could be substitued by posting the problem sets on a canvas website. Also, it would require someone in the comp department to take on the job of running the sessions.
 
+## Graphs
+<img src="ex09anakolb/static/imgs/output.png
+<img src="ex09anakolb/static/imgs/output1.png
+<img src="ex09anakolb/static/imgs/output2.png
