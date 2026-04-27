@@ -5,10 +5,8 @@ layout: default
 
 # Should COMP110 have a weekly review session?
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## Summary
+## Summary of my findings
 
 My recommendation is that the course should offer weekly review session. These sessions will allow for structured review and application of material, especially for students who struggle with understanding or work better in group settings. My analysis supports this change by showing that students who find the class difficult also tend to benefit more from structured support.
 
@@ -21,6 +19,8 @@ My third analysis calculated the average effectiveness ratinf of lesson videos, 
 Overall, this analysis suggests that students find the structured practice problems helpful for guiding their understanding. As a result, they would likely benefit from additional problems that help further develop their knowledge and challenge the skills built in class. A further extension of this question could ask students can create their own problems rather then if they do currently. One could also add a survey question to see if students would attend a group session and if they believe it would be helpful. A tradeoff of this would it would require that students be able to attend the weekly session which could be hard with the busy schedules students have. This could be substitued by posting the problem sets on a canvas website. Also, it would require someone in the comp department to take on the job of running the sessions.
 
 ## Graphs
-<img src="ex09anakolb/static/imgs/output.png
-<img src="ex09anakolb/static/imgs/output1.png
-<img src="ex09anakolb/static/imgs/output2.png
+<img src="ex09anakolb/static/imgs/output.png" alt="Effectiveness of Post Lesson Questions vs. Understanding" width="500"/>
+
+<img src="ex09anakolb/static/imgs/output1.png" alt="Office Hours Effectiveness Varation with Difficulty" width="500"/>
+
+<img src="ex09anakolb/static/imgs/output2.png" alt="Tutoring Effectiveness Varation with Difficulty" width="500"/>
